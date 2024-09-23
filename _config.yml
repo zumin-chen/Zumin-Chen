@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ZC.jpeg"
+  avatar           : "ZC.png"
   name             : "Zumin Chen"
   pronouns         : # example: "he/him/his"  
   bio              : "Dog Lover; Lab Manager at UNC; Ph.D. Applicant"
