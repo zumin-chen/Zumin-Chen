@@ -1,4 +1,14 @@
-## Zumin's Memories
+---
+layout: archive
+title: "Zumin's Memories"
+permalink: /pictures/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Wanted to share some of my fondest memories with you.
 
 <div class="image-gallery">
