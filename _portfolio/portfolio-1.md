@@ -5,7 +5,7 @@ collection: research
 ---
 
 ## 1. Poster about psychological richness 
-<br/><img src='https://github.com/zumin-chen/Zumin-Chen/blob/master/images/spsp2.pdf'>
+<br/><img src='https://github.com/zumin-chen/Zumin-Chen/blob/master/images/spsp2.png'>
 
 ## 2. Poster about sleep in Angelman syndrome and Fragile X syndrome babies 
 <br/><img src='https://github.com/zumin-chen/Zumin-Chen/blob/master/images/sleep_poster.png'>
