@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Zumin's Memories"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Zumin's Memories
+Wanted to share some of my fondest memories with you.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div class="image-gallery">
+  <div class="image-container">
+    <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img1.png" alt="memory 1">
+    <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img2.png" alt="memory 2">
+    <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img3.png" alt="memory 3">
+    <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img4.png" alt="memory 4">
+    <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img5.png" alt="memory 5">
+  </div>
+</div>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<style>
+  .image-gallery {
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  .image-container img {
+    width: 300px;
+    margin-right: 10px;
+    display: inline-block;
+  }
+</style>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
