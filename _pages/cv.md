@@ -1,14 +1,3 @@
----
-layout: archive
-title: "Zumin's Memories"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 ## Zumin's Memories
 Wanted to share some of my fondest memories with you.
 
