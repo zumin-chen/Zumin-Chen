@@ -4,6 +4,6 @@ excerpt: "These include past posters"
 collection: research
 ---
 
-(url: Zumin poster/spsp_poster.png)
-url: Zumin poster/sleep_poster.png
-url: Zumin poster/IMSI_Draftb.png
+[poster 1](posters/spsp_poster.png)
+[poster 2](posters/sleep_poster.png)
+[poster 3](posters/IMSI_Draftb.png)
