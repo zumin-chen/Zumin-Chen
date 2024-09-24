@@ -12,11 +12,12 @@ Wanted to share some of my fondest memories with you.
 
 <div class="image-gallery">
   <div class="image-container">
+       <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img5.png" alt="memory 5">
+     <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img3.png" alt="memory 3">
     <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img1.png" alt="memory 1">
     <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img2.png" alt="memory 2">
-    <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img3.png" alt="memory 3">
     <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img4.png" alt="memory 4">
-    <img src="https://raw.githubusercontent.com/zumin-chen/Zumin-Chen/master/images/img5.png" alt="memory 5">
+ 
   </div>
 </div>
 
