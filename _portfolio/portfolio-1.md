@@ -1,6 +1,6 @@
 ---
 title: "Posters"
-excerpt: "These include past posters"
+excerpt: "This includes past posters"
 collection: research
 ---
 
