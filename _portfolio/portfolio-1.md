@@ -8,4 +8,4 @@ collection: research
 
 2. [Poster about sleep in Angelman syndrome and Fragile X syndrome babies](posters/sleep_poster.png)
 
-3. [Poster about quantifying cerebrospinal fluid flow](../IMSI_Draftb.png)
+3. [Poster about quantifying cerebrospinal fluid flow](https://github.com/zumin-chen/Zumin-Chen/blob/master/images/IMSI_Draftb.png)
