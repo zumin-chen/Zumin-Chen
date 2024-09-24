@@ -4,6 +4,6 @@ excerpt: ""
 collection: research
 ---
 
-Zumin poster/spsp_poster.png
-Zumin poster/sleep_poster.png
-Zumin poster/IMSI_Draftb.png
+url: Zumin poster/spsp_poster.png
+url: Zumin poster/sleep_poster.png
+url: Zumin poster/IMSI_Draftb.png
